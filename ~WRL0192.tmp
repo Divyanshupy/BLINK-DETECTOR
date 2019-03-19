@@ -60,7 +60,7 @@ blinking.
 
 To make this more clear, consider the following figure from Soukupová and Čech
 
-![](https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_plot.jpg)
+![](<https://www.pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_plot.jpg>
 
 On the *top-left* we have an eye that is fully open — the eye aspect ratio here
 would be large(r) and relatively constant over time.
@@ -71,5 +71,3 @@ dramatically, approaching zero.
 The *bottom* figure plots a graph of the eye aspect ratio over time for a video
 clip. As we can see, the eye aspect ratio is constant, then rapidly drops close
 to zero, then increases again, indicating a single blink has taken place.
-
-![](https://media.giphy.com/media/2tROSkOBheBuOve1Gs/giphy.gif)
